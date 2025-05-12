@@ -1,0 +1,7 @@
+{
+  "name": "Isken",
+  "age": 19,
+  "city": "Kyrgyzstan",
+  "isActive": true,
+  "hobbies": ["football", "swimming"]
+}
